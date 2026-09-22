@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>基于AI的杂谈</title><link>https://yonghaili.github.io/podcast-feed/</link><language>zh-CN</language><description>由 NotebookLM 依据公开的微信公众号文章自动生成的对话式摘要。只使用公开素材（公众号文章、公开新闻、公开报告），不使用任何私人聊天内容。音频为 AI 合成语音。</description><itunes:author>李永海</itunes:author><itunes:owner><itunes:name>李永海</itunes:name><itunes:email>yhli.neu@gmail.com</itunes:email></itunes:owner><itunes:image href="https://yonghaili.github.io/podcast-feed/cover/channel.jpg" /><image><url>https://yonghaili.github.io/podcast-feed/cover/channel.jpg</url><title>基于AI的杂谈</title><link>https://yonghaili.github.io/podcast-feed/</link></image><itunes:category text="Technology" /><itunes:explicit>false</itunes:explicit><atom:link href="https://yonghaili.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml" /><lastBuildDate>Tue, 22 Sep 2026 09:06:58 +0800</lastBuildDate><item><title>订阅号精选 · 2026-09-22</title><description>本期《基于AI的杂谈》由 NotebookLM 依据公开的微信公众号文章自动生成。
+
+【AI / 大模型】
+· 过去这一周，Anthropic 干了三件事。 上周四，它发了一份报告，点名 7 家中国 AI 公司蒸馏 Claude。 两天后，CEO 达里 —— 小象AI（2026-09-15）
+· 实用! 做了本《社会科学研究Agent skills手册》, 研究问题,文献,数据,分析,复现,写作全流程. —— 计量经济圈（2026-09-17）
+· 首发｜全球AI支付研究报告 —— 艾瑞咨询（2026-09-11）
+· 昨天，一个开发者在清理硬盘的时候，发现智谱的AI编程工具ZCode占了700多MB。 挖下去，找到一个313MB的加密包。状态文件显示，它打 —— 小象AI（2026-09-19）
+
+【科研 / 基金】
+· 关于举办2026年第八期“学术研究与论文写作”（案例研究专题）研修班的通知 —— 管理世界杂志（2026-09-11）
+· 自然科学基金委交叉科学部卓越研究群体项目“从深海‘生命暗物质’到物质制造”现场考察会议在深圳举行 —— 国家自然科学基金委员会（2026-09-17）
+· 教育科学规划2026年度课题立项申报通知 —— 学术成长学苑（2026-09-11）
+· 申请！一批次重点实验室课题基金申请指南 —— 解说科研项目（2026-09-13）
+
+【教育 / 就业】
+· 涉及多所高校！省专业学位研究生教学案例项目拟立项名单公示 —— 河南高教（2026-09-11）
+· @高校毕业生，求职、技能提升政策请查收 —— 人力资源和社会保障部（2026-09-18）
+· 【获奖通知】第七届河南省高校“阅见新时代·声传家国情”主题诵读大赛获奖名单公布 —— 河南工业大学图书馆（2026-09-11）
+· 表妹在部队当了12年的女兵，还有一个月不到就退伍了。部队给了三个选择：一个退伍费95万，但没有工作；一个安排老家县城政府单位，退伍费只给25 —— 智慧家长育儿之道（2026-09-14）
+
+【电商 / 平台】
+· 淘宝丰收节新产地报告：小县城，大冠军 186个家乡宝藏改写中国物产版图 —— 阿里研究院（2026-09-11）
+· 筑牢史料根基 守护历史真相——访抗日战争与近代中日关系文献数据平台负责人 —— 中国社会科学网（2026-09-18）
+· ⏰ 备货时间最长放宽至2个工作日 📦 更多符合条件的SKU可加入 💰 享优惠运价、每单现金返现及绩效保护 FBM Ship+是亚马逊面向卖家 —— 亚马逊全球开店（2026-09-11）
+· 商品被下架才发现踩了红线？亚马逊商品安全违规的“补救指南” —— 亚马逊全球开店（2026-09-19）
+
+【数据要素 / 数字经济】
+· 共创邀约 | 2026年中国医疗数据要素行业研究报告 —— 艾瑞咨询（2026-09-17）
+· 上市公司数字化转型程度、速度与节奏数据（2003-2025年） —— 马克数据网（2026-09-20）
+· 数据要素下一站：数据安全织域！ —— DataFunSummit（2026-09-16）
+
+【消费 / 产业】
+· 借款动机与消费足迹——基于中国网络信贷的实证研究 —— 管理科学学报（2026-09-11）
+· 《管理世界》|| 范志雄、程名望、徐辉：企业化经营何以推动新型农村集体经济有效运行？——基于甘肃省前进牧业的案例研究 —— 管理世界杂志（2026-09-21）
+· 关键核心技术突破牵引现代化产业体系构建的机制：基于航天科技集团的纵向案例研究 —— 科研管理（2026-09-21）
+· 研究分享 | 国内市场一体化、交易成本与企业供应链配置——来自沪深A股市场的经验证据 —— 南开管理评论（2026-09-14）
+
+【政策 / 监管】
+· 又吵起来了! 17页文公开反驳Science文, 没有任何证据显示中国光伏政策减少了鸟类多样性. —— 计量经济圈（2026-09-20）
+· 关于万岁山中秋节/国庆节期间门票入园政策调整的通知 —— 万岁山武侠城（2026-09-19）
+· 杨泽斌 张振洋 | 知识就是力量: 组织学习何以推动公共政策的有效执行? —— 赫尔墨斯的公共管理百宝袋（2026-09-13）
+· 国庆火车票明日开售！膨胀省1356元！附火车票出票新规→ —— 智行APP（2026-09-16）
+
+本期覆盖 27 篇素材，出处：10 天内的公众号文章（链接见对应 Obsidian 笔记）。
+
+声明：音频由 AI 生成；素材版权归原作者与发布方所有，本期为学习/研究用途的摘要与解读。</description><enclosure url="https://github.com/yonghaili/podcast-feed/releases/download/2026-09-22/2026-09-22.mp3" length="26218736" type="audio/mpeg" /><guid isPermaLink="false">guilin-0d85ca5962682faf</guid><pubDate>Tue, 22 Sep 2026 09:06:58 +0800</pubDate><itunes:duration>00:18:12</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:image href="https://yonghaili.github.io/podcast-feed/cover/2026-09-22.jpg" /><link>https://yonghaili.github.io/podcast-feed/</link></item></channel></rss>
